@@ -1,1 +1,0 @@
-There are two triangles △RUP and △TQP with a shared vertex at P. Lines RU and TQ intersect at S, lines TQ and RP intersect at Q, and lines RU and TP intersect at U.
